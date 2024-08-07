@@ -11,7 +11,7 @@ To get started with machine learning using Python, follow these steps:
     ```shell
     conda create --name myenv python=3.8
     conda activate myenv
-    conda install jupyter matplotlib numpy pandas scikit-learn
+    conda install jupyter matplotlib numpy pandas scikit-learn seaborn
     ```
 
 3. Launch Jupyter Notebook: After setting up the environment, you can launch Jupyter Notebook by running the following command in the Anaconda Prompt:
