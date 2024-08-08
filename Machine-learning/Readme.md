@@ -32,12 +32,6 @@ If you are new to machine learning and want to get started with Python, here are
 
 - [Scikit-learn documentation](https://scikit-learn.org/stable/documentation.html): Scikit-learn is a popular machine learning library in Python that provides simple and efficient tools for data mining and data analysis. The official documentation contains many examples and tutorials to help you get started.
 
-- [Kaggle](https://www.kaggle.com/): Kaggle is a platform for data science and machine learning competitions. You can find many datasets and kernels (Jupyter notebooks) on Kaggle to learn from and practice your skills.
-
-- [Coursera](https://www.coursera.org/): Coursera offers many online courses on machine learning and data science, including the famous Machine Learning course by Andrew Ng.
-
-- [Fast.ai](https://www.fast.ai/): Fast.ai is a research group and online course provider that offers practical deep learning courses for coders.
-
 These resources will help you get started with machine learning using Python and build your skills in data science and artificial intelligence.
 
 ## Contributing
